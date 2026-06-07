@@ -431,7 +431,7 @@
     "_comment": "active hairstyles: kpop_sleek, kpop_bang, hair_controlled_randomness",
     "_comment": "active makeups: gravure_natural, glamour_heavy, makeup_hauté_couture, makeup_cyber_gloss, makeup_editorial_matte_noir, (makeup_retro_city_pop), makeup_kpop_stage_glitter, (makeup_kpop_kwajup_juicy), makeup_kpop_luxury_ambassador",
     "_comment": "active expressions: expression_conscious_gaze, expression_micro_smile, (expression_visual_focus), expression_editorial_allure",
-    "_comment:" "active environmental_interaction: environment_utility_luxe",
+    "_comment": "active environmental_interaction: environment_utility_luxe",
     "_comment": "active posings: (posing_all_fours), (all_fours_old), (*posing_all_fours_structured), (posing_editorial_standing), posing_editorial_seated, posing_dynamic_contrapposto",
     "active_assembly": {
 	"target_subject": [
