@@ -1,7 +1,6 @@
 {
     "__metadata__": {
 	"framework_name": "State-based Glamour prompts (bikini portraits in particular)",
-	"version": "1.0.0",
 	"release_date": "2026-05-28",
 	"repository": "https://github.com/hihihirokane/State-based-glamour-prompts",
 	"license": "MIT",
